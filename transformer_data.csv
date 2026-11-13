@@ -1,0 +1,2 @@
+Timestamp,Voltage,Current,Temperature,Load_Percentage,Status,Alerts
+2026-11-13 19:04:30,415.0,67.0,89.0,67.0,WARNING,High temperature
